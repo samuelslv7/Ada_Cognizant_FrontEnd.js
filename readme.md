@@ -1,0 +1,2 @@
+# Sobre a trilha de estudo
+Nesta trilha, preparamos uma introdução para você, que deseja alcançar o cargo de desenvolvedor front-end na Cognizant. Para essa função, é importante ter domínio de HTML, CSS e JavaScript, conhecimento prático do funcionamento do DOM e uma boa base de lógica de programação. Nesta trilha, você terá uma introdução a todos esses assuntos. Bons estudos! 📚
