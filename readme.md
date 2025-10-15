@@ -3,3 +3,6 @@ Nesta trilha, preparamos uma introdução para você, que deseja alcançar o car
 
 # Git e Versionamento - 10 aulas - Bruno Feitosa
 Neste curso, você aprenderá as melhores práticas para o versionamento de código através do Git. As aulas contam com os principais comandos e configurações utilizados no sistema. Para uma experiência de aprendizado completa, é fundamental que você, aluno, possua uma conta no GitHub, acesso ao Git e ao VSCode. Bons estudos!
+
+# HTML - 10 aulas - Walisson Silva
+O curso de HTML oferece uma introdução abrangente para iniciantes, ensinando como criar sua primeira página web estruturada e interativa com uso de HTML! Para uma experiência de aprendizado completa, é fundamental que você, estudante, tenha acesso ao Visual Studio Code. Bons estudos!
