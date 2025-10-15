@@ -6,3 +6,6 @@ Neste curso, você aprenderá as melhores práticas para o versionamento de cód
 
 # HTML - 10 aulas - Walisson Silva
 O curso de HTML oferece uma introdução abrangente para iniciantes, ensinando como criar sua primeira página web estruturada e interativa com uso de HTML! Para uma experiência de aprendizado completa, é fundamental que você, estudante, tenha acesso ao Visual Studio Code. Bons estudos!
+
+# CSS - 10 aulas - Felipe Cabral
+Nosso curso de "CSS" oferece uma compreensão abrangente e prática de CSS, fundamentando suas habilidades para criar designs responsivos e dinâmicos para a web. Para uma jornada de aprendizado completa, é importante que você, aluno, disponha de um editor de código (como o Visual Studio Code) e um navegador preferencialmente baseado em Chromium (como o Google Chrome ou Edge).
