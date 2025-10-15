@@ -1,2 +1,5 @@
 # Sobre a trilha de estudo
 Nesta trilha, preparamos uma introdução para você, que deseja alcançar o cargo de desenvolvedor front-end na Cognizant. Para essa função, é importante ter domínio de HTML, CSS e JavaScript, conhecimento prático do funcionamento do DOM e uma boa base de lógica de programação. Nesta trilha, você terá uma introdução a todos esses assuntos. Bons estudos! 📚
+
+# Git e Versionamento - 10 aulas - Bruno Feitosa
+Neste curso, você aprenderá as melhores práticas para o versionamento de código através do Git. As aulas contam com os principais comandos e configurações utilizados no sistema. Para uma experiência de aprendizado completa, é fundamental que você, aluno, possua uma conta no GitHub, acesso ao Git e ao VSCode. Bons estudos!
